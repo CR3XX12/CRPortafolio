@@ -1,0 +1,65 @@
+
+    /* Custom CSS class for cursive font style */
+    .cursive-text {
+        font-family: 'Brush Script MT', cursive;
+        font-size: 150%;
+
+    }
+
+/* 
+@media (min-width: 1300px) {
+    .logo {
+        max-width: 150px; 
+        height: 100px; 
+        display: block; 
+        margin: 0 auto; 
+    }
+    nav {
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+    }
+    
+    ul {
+        list-style: none;
+        display: flex;
+    }
+    
+    li {
+        margin: 0 100px; 
+    }
+    
+    a {
+        text-decoration: none;
+    }
+}
+
+@media (min-width: 267px) {
+    .logo {
+        max-width: 150px; 
+        height: 100px; 
+        display: block; 
+        margin: 0 auto; 
+    }
+    nav {
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+    }
+    
+    ul {
+        list-style: none;
+        display: flex;
+    }
+    
+    li {
+        margin: 0 50px; 
+    }
+    
+    a {
+        text-decoration: none;
+    }
+}
+   
+    
+ */
