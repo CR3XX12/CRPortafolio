@@ -6,6 +6,23 @@
 
     }
 
+    .white-text-with-outline {
+        color: white;
+        -webkit-text-stroke: 1px black;
+        font-weight: bold;
+      }
+
+    
+  /* style the carousel captions */
+  .carousel-caption-faded {
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the alpha value (0.5) to control the opacity */
+    color: white; 
+    padding: 20px; 
+  }
+
+
+    
+
 /* 
 @media (min-width: 1300px) {
     .logo {
